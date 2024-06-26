@@ -1,0 +1,1 @@
+Building a hard margin support vector machine (version h2) that, given a dataset, minimizes the distance between the hyperplane and data points.
